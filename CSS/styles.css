@@ -1,0 +1,44 @@
+/* NAVBAR */
+
+.nav-logo {
+  color: blue;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.nav-word.active {
+    color:blue;
+}
+
+.nav-word {
+    color:black;
+    padding-left: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    text-decoration-color: blue;
+}
+
+.nav-container {
+  margin-bottom: 50px;
+}
+
+/* TEXT */
+
+.intro-text {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+.inline-link {
+  text-decoration: none;
+}
