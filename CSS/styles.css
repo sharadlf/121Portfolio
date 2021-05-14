@@ -85,7 +85,7 @@
 
 .study-details {
   font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 300;
   color: white;
   /* padding-top: 20px; */
@@ -101,6 +101,33 @@
   padding-bottom: 20px;
 }
 
+.body-p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.body-popout {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 50px;
+  color: green;
+}
+
+.body-subtitle {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 50px;
+}
+
+#question {
+  color: blue;
+}
 /* IMAGES */
 
 .project-tile {
