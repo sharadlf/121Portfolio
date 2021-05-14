@@ -157,11 +157,25 @@
   margin-top: 20px;
 }
 
+
 .hero {
   background-color: black;
   height: 500px;
   margin-bottom: 50px;
 }
+
+.hero.c2k {
+  background-color: blue;
+  height: 500px;
+  margin-bottom: 50px;
+}
+
+.pdf {
+  width: 50%;
+}
+
+
+
 
 
 /* .projects {
