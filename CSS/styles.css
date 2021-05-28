@@ -97,7 +97,14 @@
   font-size: 40px;
   font-weight: 500;
   color: black;
-  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.study-header1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  color: black;
   padding-bottom: 20px;
 }
 
@@ -172,6 +179,11 @@
 
 .pdf {
   width: 50%;
+}
+
+.bodycol {
+  margin-bottom: 80px;
+  padding-left: 30px;
 }
 
 
