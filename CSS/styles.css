@@ -157,8 +157,20 @@
   width:75%;
 }
 
-.overview {
+#bigger2 {
+  width:110%;
+}
+
+#smaller {
+  width: 40%;
+}
+
+#medium {
   width: 50%;
+}
+
+.overview {
+  width: 100%;
   text-align: center;
   margin-bottom: 20px;
   margin-top: 20px;
