@@ -83,6 +83,8 @@
   padding-bottom: 50px;
 }
 
+
+
 .study-details {
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
@@ -148,9 +150,76 @@
   box-shadow: 0px 5px 10px gray;
 }
 
+.tile2 {
+  width: 120%;
+  box-shadow: 0px 5px 10px gray;
+  vertical-align: middle;
+}
+
+.tile3 {
+  padding-right: 20px;
+  width: 120%
+}
+
+.tile3:hover {
+  width: 118%;
+}
+
+.tile-col {
+  margin-left: 40px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+/* .tile2:hover {
+  width: 95%;
+  box-shadow: 0 0 3px 2px blue;
+} */
+
+.all-container {
+  max-width: 1000px;
+}
+
+.tile-container {
+  display: flex;
+  align-items:center;
+  vertical-align: middle;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.tile-span {
+  vertical-align: middle;
+}
+
 .project-tile:hover {
   width: 51%;
   box-shadow: 0 0 3px 2px blue;
+}
+
+.tile-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: black;
+  padding-top: 20px;
+}
+
+.tile-subtitle {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: gray;
+  padding-bottom: 15px;
+}
+
+.tile-body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  color: black;
 }
 
 #bigger {
