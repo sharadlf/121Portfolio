@@ -223,6 +223,15 @@
   color: black;
 }
 
+.profile-pic {
+  width: 130%;
+}
+
+.vertical-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #bigger {
   width:75%;
 }
